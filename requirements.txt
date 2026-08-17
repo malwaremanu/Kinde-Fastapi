@@ -1,0 +1,3 @@
+kinde-python-sdk
+fastapi
+uvicorn[standard]
